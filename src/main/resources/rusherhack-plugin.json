@@ -1,0 +1,12 @@
+{
+  "Plugin-Class": "xyz.slycrack.ShitterSpammerPlugin",
+  "Name": "ShitterSpammer",
+  "Version": "${plugin_version}",
+  "Description": "spam those shitters",
+  "Authors": [
+    "slycrack"
+  ],
+  "Minecraft-Versions": [
+    "1.20.4"
+  ]
+}
